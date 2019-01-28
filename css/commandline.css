@@ -1,0 +1,27 @@
+
+* {
+  box-sizing: border-box;
+}
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+	padding:15px;
+	padding-left: 0px;
+
+}
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 25%;
+  height: 100vh;
+  background-color: #FF5733;
+}
+
+.right {
+  width: 75%;
+}
