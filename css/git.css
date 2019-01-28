@@ -1,0 +1,35 @@
+
+* {
+  box-sizing: border-box;
+}
+h1 {
+	font-family: 'Shadows Into Light Two', sans-serif;
+  text-align: center;
+  border-style: solid;
+  padding: 20px;
+  background-color: #EA5959;
+  background-position: center;
+}
+body {
+	font-family: 'Cedarville Cursive', cursive;
+  font-size: 20px;
+	padding:15px;
+  background-image: url("../img/love.jpg");
+  background-size: 120%;
+	padding: 20px;
+
+}
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 25%;
+  height: 100vh;
+  background-color: #FF5733;
+}
+
+.right {
+  width: 75%;
+}

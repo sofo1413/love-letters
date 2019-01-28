@@ -4,12 +4,18 @@
 }
 h1 {
 	font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+  opacity: .8;
 }
 body {
+  background-image: url("../img/breakup.jpg");
+  background-size: 100%;
+  background-repeat:no-repeat;
 	font-family: 'Montserrat', sans-serif;
 	padding:15px;
 	padding-left: 0px;
-
+  font-size: 15px;
+  color:black;
 }
 .column {
   float: left;
@@ -18,10 +24,12 @@ body {
 
 .left {
   width: 25%;
-  height: 100vh;
-  background-color: #FF5733;
+  background-color: black;
 }
 
 .right {
   width: 75%;
+  background-color: white;
+    opacity: .6;
+
 }
