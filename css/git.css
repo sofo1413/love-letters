@@ -7,16 +7,17 @@ h1 {
   text-align: center;
   border-style: solid;
   padding: 20px;
+  font-size: 40px;
   background-color: #EA5959;
   background-position: center;
 }
 body {
-	font-family: 'Cedarville Cursive', cursive;
-  font-size: 20px;
-	padding:15px;
+	font-family: 'Just Me Again Down Here', cursive;
+  font-size: 28px;
   background-image: url("../img/love.jpg");
   background-size: 120%;
-	padding: 20px;
+	padding: 40px;
+  padding-top: 0px;
 
 }
 .column {
@@ -32,4 +33,7 @@ body {
 
 .right {
   width: 75%;
+}
+.keyword {
+  background-color: slateblue;
 }
